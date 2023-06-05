@@ -1,0 +1,7 @@
+C:\Users\stefany.pires\source\repos\Aula03-Atividadescom variaveis\Aula03-Atividadescom variaveis\bin\Debug\Aula03-Atividadescom variaveis.exe.config
+C:\Users\stefany.pires\source\repos\Aula03-Atividadescom variaveis\Aula03-Atividadescom variaveis\bin\Debug\Aula03-Atividadescom variaveis.exe
+C:\Users\stefany.pires\source\repos\Aula03-Atividadescom variaveis\Aula03-Atividadescom variaveis\bin\Debug\Aula03-Atividadescom variaveis.pdb
+C:\Users\stefany.pires\source\repos\Aula03-Atividadescom variaveis\Aula03-Atividadescom variaveis\obj\Debug\Aula03-Atividadescom variaveis.csproj.AssemblyReference.cache
+C:\Users\stefany.pires\source\repos\Aula03-Atividadescom variaveis\Aula03-Atividadescom variaveis\obj\Debug\Aula03-Atividadescom variaveis.csproj.CoreCompileInputs.cache
+C:\Users\stefany.pires\source\repos\Aula03-Atividadescom variaveis\Aula03-Atividadescom variaveis\obj\Debug\Aula03-Atividadescom variaveis.exe
+C:\Users\stefany.pires\source\repos\Aula03-Atividadescom variaveis\Aula03-Atividadescom variaveis\obj\Debug\Aula03-Atividadescom variaveis.pdb
